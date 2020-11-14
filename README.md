@@ -7,7 +7,23 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=upworkprashantp.upworkprashantp&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+Hi, I am a Full Stack Developer with 6 years of experience. My main focus is on web scraping ,data science and python language
+
+My expertise is web scraping, crawling and data processing. Strong background in creating web applications and API, bots programming and any kind of web automation solutions. Feel free to contact me ;)
+
+Range of tasks:
+• Web scraping, crawling, parsing and data extraction &amp; preparation
+• Development of web applications, API&#39;s, etc
+• Automation software: bots, tests, etc
+• Configuration and deployment of infrastructure (Cloud-, Server-, Container-based)
+
+Technical skills:
+• Frameworks: Django, Flask
+• Databases: MongoDB, MySQL, SQLite, PostgreSQL, etc
+• Tools for scraping: Scrapy, Selenium WebDriver, css+xpath, BeautifulSoap, etc
+• DevOps: Docker/Kubernetes, AWS, GoDaddy, Graylog, etc
+
+I’m looking forward to a long-term partnership
 
 [![](https://gitwar.herokuapp.com/badge?username=upworkprashantp&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -81,15 +97,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
         <td><img alt="Issues" src="https://img.shields.io/github/issues/upworkprashantp/TradeByte?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/upworkprashantp/TradeByte?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/upworkprashantp/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/upworkprashantp/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/upworkprashantp/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/upworkprashantp/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/upworkprashantp/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/upworkprashantp/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/upworkprashantp/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
+      </tr>     
     </tbody>
   </table>
   <br />
@@ -100,12 +108,11 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+	    <li><b>Laptop: </b> Dell Inspiron 15 5000(8th Gen)</li>
   	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	    <li><b>Code Editor:</b> Pycharm & VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/upworkprashantp/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
